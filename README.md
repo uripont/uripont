@@ -1,6 +1,6 @@
-I am Oriol, a creative at heart, on a mission to solve problems through value generators at scale, enabling and delivering positive asymmetric impact for all.
+*I am Oriol, a creative at heart, on a mission to solve problems through value generators at scale, enabling and delivering positive asymmetric impact for all.*
 
-I grew up making games, which explains why I study both Math Engineering and Computer Science at UPF. Now I build software, starting with an awarded EdTech app: Mety AI.
+I grew up making games, which helps explain why I study both Math Engineering and Computer Science at UPF. I've been breadth-exploring software engineering, agentic AI, product management and tech startups for the last few years.
 
 <table>
     <tr>
