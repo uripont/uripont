@@ -1,47 +1,7 @@
-*I am Oriol, a creative at heart, on a mission to solve problems through value generators at scale, enabling and delivering positive asymmetric impact for all.*
+*I am Oriol, a creative on a mission to solve meaningful hard problems at scale. In short, I work to enable, ship, and accelerate positive-sum, asymmetric impact.*
 
-I grew up making games, which helps explain why I study both Math Engineering and Computer Science at UPF. I've been breadth-exploring software engineering, AI, product development, gamification, OSS, and tech startups for the last few years. I am currently interested in AGI, distributed stateful serverless runtimes, universal interfaces, 3D animation, and full-stack type-first programming.
+Grew up making [games](https://uripont.github.io/early-games-guide/), which helps explain why I study both Math Engineering and Computer Science at UPF.
 
-I haven't done much of what I want to build just yet, but I do have some history of small side projects that have brought me where I am today:
+Breadth-explored software engineering, AI, product development, gamification, and tech startups for the last few years. It was done through some [initial side projects](https://uripont.github.io/early-side-projects-guide) and [open demos](https://github.com/stars/uripont/lists/open-demo-projects).
 
-<table>
-    <tr>
-        <td colspan="6"><strong>Side projects</strong></td>
-    </tr>
-    <tr>
-        <td><img src="gallery/other/2024-canvasforge-cinemaforge.png" width="100%"></td>
-        <td><img src="gallery/other/2023-visybox.png" width="100%"></td>
-        <td><img src="gallery/other/2023-overoom.png" width="100%"></td>
-    </tr>
-    <tr>
-        <td><img src="gallery/apps/2023-mety-ai.png" width="100%"></td>
-        <td><img src="gallery/apps/2022-loyalpass.png" width="100%"></td>
-        <td><img src="gallery/apps/2021-memoleap.png" width="100%"></td>
-    </tr>
-    <tr>
-        <td colspan="3"><strong>Hackathon / Uni projects</strong></td>
-    </tr>
-    <tr>
-        <td><img src="gallery/other/2025-arrythmia-origin-predictor.png" width="100%"></td>
-        <td><img src="gallery/websites/2025-cheeper.png" width="100%"></td>
-        <td><img src="gallery/websites/2025-mixabeat.png" width="100%"></td>
-    </tr>
-    <tr>
-        <td><img src="gallery/apps/2024-tania.png" width="100%"></td>
-        <td><img src="gallery/apps/2024-benefan.png" width="100%"></td>
-        <td><img src="gallery/apps/2024-cura-t.png" width="100%"></td>
-    </tr>
-    <tr>
-        <td colspan="3"><strong>Games</strong></td>
-    </tr>
-    <tr>
-        <td><img src="gallery/games/2022-lur-verifier.png" width="100%"></td>
-        <td><img src="gallery/games/2022-mission-avalanche.png" width="100%"></td>
-        <td><img src="gallery/games/2021-mission-73-astronaut-to-the-rescue.png" width="100%"></td>
-    </tr>
-    <tr>
-        <td><img src="gallery/games/2021-code-konor.png" width="100%"></td>
-        <td><img src="gallery/games/2020-fireball.png" width="100%"></td>
-        <td><img src="gallery/games/2018-2019-wine-for-the-president-and-perfect-steak-cooker.png" width="100%"></td>
-    </tr>
-</table>
+Currently interested in AGI, distributed stateful serverless runtimes, universal interfaces, full-stack type-safe programming, OSS, 3D animation and autonomous agents. I expect to focus on these areas in the coming years.
